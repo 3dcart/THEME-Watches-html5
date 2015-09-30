@@ -1,6 +1,6 @@
 # 3dcart Theme: Watches-html5
 
-http://themes.3dcart.com/???
+http://themes.3dcart.com/watches-html5_p_207.html
 
 ## Installation
 
