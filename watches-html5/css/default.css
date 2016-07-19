@@ -35,6 +35,9 @@ body {
 img {
 	border: 0;
 }
+.bottomBar{
+	clear:both;
+}
 input,
 textarea,
 select,
@@ -767,7 +770,8 @@ button:hover {
 }
 .cards{
 	text-align:center;
-	margin-top:30px;
+	margin-top:0px;
+	float:right;
 }
 .search-close-btn button{
 	height: 30px;
@@ -1366,10 +1370,13 @@ footer .col3 {
 	display: inline;
 }
 #globalFooter {
-    margin: 0 0 15px;
+    margin: 15px 0 15px;
+	padding-top:25px;
+	clear:both;
 }
 #copyright {
-    margin: 0 0 15px;
+    margin: 15px 0 15px;
+	float:left;
 }
 .stats {
 	height: 0;
