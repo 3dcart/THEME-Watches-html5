@@ -1208,7 +1208,7 @@ footer .social {
 	width: 100%;
 	background: #f7f7f7;
 	padding: 20px 0;
-	height: 185px;
+	min-height: 185px;
 }
 .social-icons {
 	float: none;
